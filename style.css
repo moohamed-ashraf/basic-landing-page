@@ -1,0 +1,65 @@
+nav {
+  display: block;
+  background-color: white;
+  margin-top: 10px;
+}
+.container {
+  background-color: rgb(40, 147, 235);
+}
+nav > img {
+  height: 10%;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  display: inline;
+  float: right;
+}
+
+a {
+  display: block;
+  padding: 8px;
+}
+
+li a {
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  margin-top: 25px;
+  font-size: 30px;
+}
+.Best {
+  color: yellow;
+}
+.main > h1 {
+  color: white;
+  margin: 25px;
+}
+.main > p {
+  width: 25%;
+  color: white;
+  margin: 30px;
+}
+.main > input {
+  background-color: white;
+  height: 30px;
+  width: 100px;
+  background-color: transparent;
+  border-color: white;
+  color: white;
+  border: 1;
+  margin: 50px;
+}
+section h2 {
+  color: grey;
+  text-align: center;
+}
+section p {
+  width: 50%;
+  margin: 25px;
+}
